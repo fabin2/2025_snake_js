@@ -1,3 +1,4 @@
+```js
 //// 1.Variable declaration
 var myCanvas = document.getElementById("canvas").getContext("2d");
 var snakePosx = 80;
@@ -123,3 +124,4 @@ function inputControl(e){
         document.getElementById("game-status").innerHTML = gameStatus;
     }
 }
+```
